@@ -32,7 +32,8 @@ This project analyses daily electricity consumption data across 33 Indian states
 •	Version Control: Git, GitHub
 
 ## Tableau Public Dashboard
-View the live dashboard here👇 https://public.tableau.com/app/profile/faisal.khan7191/viz/ElectricityConsumptionAnalysis_17744968251510/StoryofElectricityConsumptioninIndi
+View the live dashboard here👇 
+https://public.tableau.com/app/profile/faisal.khan7191/viz/ElectricityConsumptionAnalysis-Story/StoryofElectricityConsumptioninIndia?publish=yes
 
 ## Project Start Date
 26 February 2026
